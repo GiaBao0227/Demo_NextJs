@@ -1,4 +1,4 @@
-// File: D:\CycberSoft\Frontend\Buoi_15\Bai_Tap\Archive\src\app\(pages)\news\page.tsx
+// File: D:\CycberSoft\Frontend\Buoi_15\Bai_Tap\Demo_NextJs\src\app\(pages)\news\page.tsx
 import * as entry from '../../../../../src/app/(pages)/news/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
